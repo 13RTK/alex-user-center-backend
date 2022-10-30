@@ -5,7 +5,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
     password: abcdef
-    url: jdbc:mysql://localhost:3307/alex-universe
+    url: jdbc:mysql://localhost:3306/alex-universe
   # session timeout
   session:
     timeout: 86400
